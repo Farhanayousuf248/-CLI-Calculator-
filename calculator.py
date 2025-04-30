@@ -15,6 +15,7 @@ def divide(x, y):
 
 def main():
     print("Welcome to CLI Calculator")
+    print("This CLI Calculator was created by Farhana Yousuf")  
     while True:
         print("\nSelect operation:")
         print("1. Add")
